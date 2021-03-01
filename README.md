@@ -1,2 +1,2 @@
 # LeetCode
-All solving problems in LeetCode
+All  problems in LeetCode,hackerrank,codeforce and toph
